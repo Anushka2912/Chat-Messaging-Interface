@@ -41,7 +41,7 @@ Installation
   or
   yarn dev
 
--The app should now be running at http://localhost:3000/.
+-The app should now be running at http://localhost:5173/.
 
 # How It Works
 
