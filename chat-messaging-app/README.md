@@ -30,18 +30,11 @@ Installation
 
 - **Install dependencies**:
   npm install
-  or
-  yarn install
 
 - **Running the App**
 
 -Start the development server:
-
   npm run dev
-  or
-  yarn dev
-
--The app should now be running at http://localhost:5173/.
 
 # How It Works
 
